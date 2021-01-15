@@ -1,0 +1,13 @@
+export const CLEAR_ALL = "CLEAR_ALL";
+
+export const ADD_SHAPE = "ADD_SHAPE";
+export const UPDATE_SHAPE = "UPDATE_SHAPE";
+export const DELETE_SHAPE = "DELETE_SHAPE";
+export const SELECT_SHAPE = "SELECT_SHAPE";
+export const CLEAR_SHAPES = "CLEAR_SHAPES";
+export const UPDATE_SHAPES = "UPDATE_SHAPES";
+
+export const ADD_SHAPE_GROUP = "ADD_SHAPE_GROUP";
+export const UPDATE_SHAPE_GROUP = "UPDATE_SHAPE_GROUP";
+export const SELECT_SHAPE_GROUP = "SELECT_SHAPE_GROUP";
+export const UPDATE_SHAPE_GROUPS = "UPDATE_SHAPE_GROUPS";

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="37fb066c-5e4d-4540-9fd1-45f204bc5162" name="Default Changelist" comment="">
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/shapes/ellipse.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/img/shapes/ellipse.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/shapes/rectangle .svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/img/shapes/rectangle.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/shapes/triangle.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/img/shapes/triangle.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/data/boardItem.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/data/boardItem.json" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/appwork-dark.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/appwork-dark.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/appwork-material.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/appwork-material.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/appwork.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/appwork.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/bootstrap-dark.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/bootstrap-dark.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/bootstrap-material.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/bootstrap-material.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/bootstrap.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/colors-dark.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/colors-dark.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/colors-material.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/colors-material.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/colors.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/colors.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/rtl/appwork-dark.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/rtl/appwork-dark.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/rtl/appwork-material.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/rtl/appwork-material.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/rtl/appwork.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/rtl/appwork.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/rtl/bootstrap-dark.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/rtl/bootstrap-dark.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/rtl/bootstrap-material.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/rtl/bootstrap-material.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/rtl/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/rtl/bootstrap.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/rtl/colors-dark.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/rtl/colors-dark.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/rtl/colors-material.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/rtl/colors-material.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/rtl/colors.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/rtl/colors.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/rtl/theme-air-dark.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/rtl/theme-air-dark.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/rtl/theme-air-material.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/rtl/theme-air-material.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/rtl/theme-air.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/rtl/theme-air.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/rtl/theme-corporate-dark.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/rtl/theme-corporate-dark.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/rtl/theme-corporate-material.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/rtl/theme-corporate-material.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/rtl/theme-corporate.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/rtl/theme-corporate.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/rtl/theme-cotton-dark.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/rtl/theme-cotton-dark.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/rtl/theme-cotton-material.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/rtl/theme-cotton-material.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/rtl/theme-cotton.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/rtl/theme-cotton.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/rtl/theme-gradient-dark.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/rtl/theme-gradient-dark.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/rtl/theme-gradient-material.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/rtl/theme-gradient-material.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/rtl/theme-gradient.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/rtl/theme-gradient.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/rtl/theme-paper-dark.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/rtl/theme-paper-dark.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/rtl/theme-paper-material.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/rtl/theme-paper-material.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/rtl/theme-paper.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/rtl/theme-paper.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/rtl/theme-shadow-dark.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/rtl/theme-shadow-dark.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/rtl/theme-shadow-material.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/rtl/theme-shadow-material.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/rtl/theme-shadow.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/rtl/theme-shadow.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/rtl/theme-soft-dark.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/rtl/theme-soft-dark.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/rtl/theme-soft-material.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/rtl/theme-soft-material.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/rtl/theme-soft.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/rtl/theme-soft.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/rtl/theme-sunrise-dark.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/rtl/theme-sunrise-dark.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/rtl/theme-sunrise-material.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/rtl/theme-sunrise-material.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/rtl/theme-sunrise.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/rtl/theme-sunrise.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/rtl/theme-twitlight-dark.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/rtl/theme-twitlight-dark.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/rtl/theme-twitlight-material.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/rtl/theme-twitlight-material.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/rtl/theme-twitlight.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/rtl/theme-twitlight.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/rtl/theme-vibrant-dark.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/rtl/theme-vibrant-dark.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/rtl/theme-vibrant-material.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/rtl/theme-vibrant-material.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/rtl/theme-vibrant.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/rtl/theme-vibrant.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/rtl/uikit.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/rtl/uikit.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/theme-air-dark.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/theme-air-dark.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/theme-air-material.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/theme-air-material.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/theme-air.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/theme-air.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/theme-corporate-dark.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/theme-corporate-dark.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/theme-corporate-material.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/theme-corporate-material.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/theme-corporate.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/theme-corporate.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/theme-cotton-dark.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/theme-cotton-dark.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/theme-cotton-material.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/theme-cotton-material.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/theme-cotton.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/theme-cotton.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/theme-gradient-dark.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/theme-gradient-dark.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/theme-gradient-material.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/theme-gradient-material.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/theme-gradient.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/theme-gradient.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/theme-paper-dark.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/theme-paper-dark.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/theme-paper-material.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/theme-paper-material.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/theme-paper.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/theme-paper.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/theme-shadow-dark.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/theme-shadow-dark.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/theme-shadow-material.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/theme-shadow-material.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/theme-shadow.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/theme-shadow.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/theme-soft-dark.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/theme-soft-dark.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/theme-soft-material.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/theme-soft-material.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/theme-soft.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/theme-soft.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/theme-sunrise-dark.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/theme-sunrise-dark.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/theme-sunrise-material.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/theme-sunrise-material.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/theme-sunrise.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/theme-sunrise.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/theme-twitlight-dark.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/theme-twitlight-dark.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/theme-twitlight-material.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/theme-twitlight-material.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/theme-twitlight.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/theme-twitlight.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/theme-vibrant-dark.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/theme-vibrant-dark.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/theme-vibrant-material.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/theme-vibrant-material.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/theme-vibrant.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/theme-vibrant.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vendor/css/uikit.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/css/uikit.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/board/LeftMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/board/LeftMenu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/BoarItemCategory.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/BoarItemCategory.js" afterDir="false" />
+>>>>>>> 9000938e2ca43b451e361dce147a5139643634c6
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jQd1igo5IC7PDUyeNfZQyNWLOK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="I:\current project\Hadisur\techscienceonline\tech-scratch\public\assets\sounds\alphabet" />
+      <recent name="I:\current project\Hadisur\techscienceonline\tech-scratch\src\components\board" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Konva.JS\shohel\tech-scratch\public\assets\img\shapes" />
+      <recent name="I:\current project\Hadisur\techscienceonline\tech-scratch\src\models" />
+      <recent name="I:\current project\Hadisur\techscienceonline\tech-scratch\src\assets\img\logo" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37fb066c-5e4d-4540-9fd1-45f204bc5162" name="Default Changelist" comment="" />
+      <created>1603740035461</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603740035461</updated>
+      <workItem from="1603740038236" duration="9000" />
+      <workItem from="1603740072008" duration="1111000" />
+      <workItem from="1603821559615" duration="4365000" />
+      <workItem from="1603862545303" duration="5075000" />
+      <workItem from="1603908002217" duration="217000" />
+      <workItem from="1603947285256" duration="6457000" />
+      <workItem from="1603998592106" duration="1908000" />
+      <workItem from="1604126081105" duration="9422000" />
+      <workItem from="1604158297113" duration="8959000" />
+      <workItem from="1604168044103" duration="330000" />
+      <workItem from="1604168375315" duration="1038000" />
+      <workItem from="1604169578996" duration="237000" />
+      <workItem from="1604170000290" duration="1695000" />
+<<<<<<< HEAD
+      <workItem from="1604213464808" duration="166000" />
+      <workItem from="1604253805382" duration="2910000" />
+=======
+      <workItem from="1604206992247" duration="1678000" />
+>>>>>>> 9000938e2ca43b451e361dce147a5139643634c6
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="515" y="225" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604171654096">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="515" y="225" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1604171654096" />
+    <state x="724" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1604132620939" />
+    <state x="526" y="193" key="FileChooserDialogImpl" timestamp="1604168372749">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="526" y="193" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604168372749" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603947442977" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1604167238479">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604167238479" />
+    <state x="518" y="267" width="585" height="530" key="find.popup" timestamp="1603868413408">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="518" y="267" width="585" height="530" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603868413408" />
+  </component>
+</project>
